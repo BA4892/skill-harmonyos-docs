@@ -10,13 +10,13 @@ The core design employs a **two-step retrieval method combining category directo
 
 ## Documentation Statistics
 
-| Section | Number of Documents | Size | Description |
-|------|- -------|------|------|
-| API Reference (api/) | 7,600 | 174 MB | Definitions for ArkTS API, C API, and component interfaces |
-| Development Guides (guides/) | 10,380 | 165 MB | Development guidance for application frameworks, system services, media, graphics, etc. |
-| Best Practices (best/) | 860 | 22 MB | Practical solutions for performance optimization, stability, power consumption, layout, etc. |
-| Release Notes (releases/) | 92 | 1.8 MB | API change logs, platform behavior change notes |
-| **Total** | **18,932** | **~363 MB** | |
+Section                               Number of Documents     Size     Description
+API Reference (api/)                           7,600          174 MB   ArkTS API, C API, and component interface definitions
+Development Guides (guides/)                   10,380         165 MB   Development guidance for application frameworks, system services, media and graphics, etc.
+Best Practices (best/)                            860          22 MB   Practical solutions for performance optimization, stability, power consumption, layout, etc.
+Release Notes (releases/)                          92         1.8 MB   API change logs, platform behavior change notes
+Total                                          18,932        ~363 MB 	
+
 
 ## Directory Structure
 
