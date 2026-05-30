@@ -1,6 +1,6 @@
-# ArkTS API错误码
+# ArkTS API Error Codes
 
-> **分区**: API参考  |  **API级别**: API 23 (HarmonyOS 6.0)
+> **Section**: API Reference  |  **API Level**: API 23 (HarmonyOS 6.0)
 
 **Slug**: `hmaf-error-code`
 
@@ -10,101 +10,101 @@
 
 ---
 
-ArkTS API错误码
+ArkTS API Error Codes
 
-以下仅介绍本模块特有错误码，通用错误码请参考
-通用错误码说明文档
-。
+The following section covers only error codes specific to this module. For general error codes, please refer to the
+General Error Code Documentation
+.
 
-1022400010 参数错误
+1022400010 Parameter Error
 
-错误信息
+Error Message
 
 Parameter error.
 
-错误描述
+Error Description
 
-输入参数错误。
+Input parameter error.
 
-可能原因
+Possible Causes
 
-输入参数的取值超出支持的范围，或规格。
+The value of the input parameter exceeds the supported range or specifications.
 
-处理步骤
+Resolution Steps
 
-检查输入参数是否符合要求，确保无误后再次尝试。
+Verify that the input parameters meet the requirements, and try again after ensuring they are correct.
 
-1022400011 隐私协议未授权
+1022400011 Privacy Agreement Not Authorized
 
-错误信息
+Error Message
 
 Privacy agreement not accepted.
 
-错误描述
+Error Description
 
-隐私未经授权。
+Privacy agreement not authorized.
 
-可能原因
+Possible Causes
 
-未同意小艺隐私协议。
+You have not agreed to the Xiaoyi Privacy Agreement.
 
-处理步骤
+Resolution Steps
 
-重新点击Agent按钮，打开小艺页面时同意隐私协议。
+Click the Agent button again and agree to the Privacy Agreement when the Xiaoyi page opens.
 
-1022400012 未登录华为账户
+1022400012 Not logged in to HUAWEI ID
 
-错误信息
+Error Message
 
 HUAWEI ID not signed in.
 
-错误描述
+Error Description
 
-未登录华为账号。
+Not logged in to HUAWEI ID.
 
-可能原因
+Possible Causes
 
-未登录华为账号。
+Not logged in to HUAWEI ID.
 
-处理步骤
+Resolution Steps
 
-重新登录设备上的华为账号。
+Log back into your HUAWEI ID on the device.
 
-1022400013 网络错误
+1022400013 Network Error
 
-错误信息
+Error Message
 
 Internet error.
 
-错误描述
+Error Description
 
-网络异常。
+Network issue.
 
-可能原因
+Possible Causes
 
-设备未连接至网络或处于弱网环境。
+The device is not connected to the internet or is in an area with weak signal.
 
-处理步骤
+Resolution Steps
 
-连接网络后，重新尝试。
+Connect to the internet and try again.
 
-1022400014 内部错误
+1022400014 Internal Error
 
-错误信息
+Error Message
 
 Internal error.
 
-错误描述
+Error Description
 
-内部错误。
+Internal error.
 
-可能原因
+Possible Causes
 
-内部连接失败，当前小艺版本不支持。
+Internal connection failed; the current version of Xiaoyi does not support this feature.
 
-处理步骤
+Resolution Steps
 
-建议到应用市场下载最新版的小艺app。
+We recommend downloading the latest version of the Celia app from the App Store.
 
 ---
 *2026-04-22T15:54:00.555Z*
