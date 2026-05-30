@@ -43,5 +43,3 @@ skill-harmonyos-docs/
 │   │   └── ...
 │   ├── index.md                # Hierarchical navigation entry point
 │   └
-
-Translated with DeepL.com (free version)
